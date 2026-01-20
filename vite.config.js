@@ -30,6 +30,6 @@ export default defineConfig({
     },
   },
   optimizeDeps: {
-    include: ['frappe-ui > feather-icons', 'interactjs'],
+    include: ['frappe-ui > feather-icons', 'interactjs', 'debug'],
   },
 })
